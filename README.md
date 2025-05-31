@@ -97,7 +97,7 @@ image-encryptor/
 ## 🧑‍💻 Author
 
 - **Catherine Susan**
-- [Your GitHub Profile](https://github.com/CatherineSusanR)
+- [GitHub Profile](https://github.com/CatherineSusanR)
 
 ---
 
